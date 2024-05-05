@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: hello
 -->
 
-Hello! My name is Ryan and I am a CS student at UBC! more edit gjksdjg
-
-hope this works
+Hello! My name is Ryan and I am a CS student at UBC! I love to be outdoors and do almost anything athletic! Feel free to take a look at my repositories!
 
